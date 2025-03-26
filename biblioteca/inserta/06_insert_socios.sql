@@ -1,0 +1,18 @@
+INSERT INTO Socios(NOMBRE, DIRECCION, CORREO) VALUES
+('Pol', 'Carrer Badalona', 'Pol@gmail.com'),
+('Erik', 'Carrer Badalona', 'Erik@gmail.com'),
+('Eric', 'Carrer Badalona', 'Eric@gmail.com'),
+('Alex', 'Carrer Badalona', 'Alex@gmail.com'),
+('Willy', 'Carrer Badalona', 'Willy@gmail.com'),
+('Hector', 'Carrer Badalona', 'Hector@gmail.com'),
+('DaniB', 'Carrer Badalona', 'DaniB@gmail.com'),
+('Didac', 'Carrer Badalona', 'Didac@gmail.com'),
+('DaniO', 'Carrer Badalona', 'DaniO@gmail.com'),
+('Joan Manel', 'Carrer Badalona', 'Joan Manel@gmail.com'),
+('Cristian', 'Carrer Badalona', 'Cristian@gmail.com'),
+('Khadiya', 'Carrer Badalona', 'Khadiya@gmail.com'),
+('Andrik', 'Carrer Badalona', 'Andrik@gmail.com'),
+('Guillem', 'Carrer Badalona', 'Guillem@gmail.com'),
+('Raul', 'Carrer Badalona', 'Raul@gmail.com'),
+('Luis', 'Carrer Badalona', 'Luis@gmail.com'),
+('Toni', 'Carrer Badalona', 'Toni@gmail.com')

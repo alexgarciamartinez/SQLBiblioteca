@@ -1,0 +1,8 @@
+SELECT 
+    S.NOMBRE,
+    S.CORREO,
+    L.TITULO
+FROM Prestamos P
+INNER JOIN Socios S ON P.socio_FK = S.ID
+INNER JOIN Libros L ON P.libro_FK = L.ID
+WHERE DATEADD(DAY, 30, P.fecha_retiro) BETWEEN GETDATE() AND DATEADD(DAY, 5, GETDATE());
